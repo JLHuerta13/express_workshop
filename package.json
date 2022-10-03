@@ -24,6 +24,7 @@
   },
   "homepage": "git+https://github.com/DjHuertix/express_workshop#readme",
   "dependencies": {
+    "body-parser": "^1.20.0",
     "express": "^4.18.1",
     "nodemon": "^2.0.20"
   }
